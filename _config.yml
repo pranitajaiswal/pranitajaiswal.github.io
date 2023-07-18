@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://sunank200.github.io"
+url: "https://pranitajaiswal.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ankit Chaurasia
+title: Pranita Jaiswal
 
 # Short description of your site
 description: Personal Website
@@ -24,9 +24,9 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Publications: "publications"
+  # Publications: "publications"
   # Blog: "blog"
-  Talks: "talks"
+  # Talks: "talks"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -42,11 +42,11 @@ avatar: "/static/img/ankit.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ankit Chaurasia
-  email: "sunank200@gmail.com"
-  github: sunank200
-  google-scholar: citations?user=Oi1BC2AAAAAJ
-  linkedin: sunank200
+  name: Pranita Jaiswal
+  email: "pranitajaiswal08@gmail.com"
+  github: pranitajaiswal
+  # google-scholar: citations?user=Oi1BC2AAAAAJ
+  linkedin: pranitajaiswal
   
 
 # Select which links to show in the footer
@@ -76,17 +76,17 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sunank200.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pranitajaiswal.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "sunank200-github-io"
+disqus: "pranitajaiswal-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "G-H0TQ1LJ2VT"
+# google_analytics: "G-H0TQ1LJ2VT"
 
 # Google Tag Manager ID
-gtm: "G-H0TQ1LJ2VT"
+# gtm: "G-H0TQ1LJ2VT"
 
 # Facebook App ID
 # fb_app_id: ""
